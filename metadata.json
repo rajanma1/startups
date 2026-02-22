@@ -1,0 +1,5 @@
+{
+  "name": "FoundersFuel",
+  "description": "The elite intelligence platform for startup credits, AI resources, and venture-scale perks.",
+  "requestFramePermissions": ["geolocation"]
+}
